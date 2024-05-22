@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @smtilson
+- 👋 Hi, I’m @smtilson.
+- I used to be a mathematician.
 - 👀 I’m interested in web development as well as data science.
 - 🌱 I’m currently learning full stack web development.
