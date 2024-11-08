@@ -4,4 +4,4 @@
 - I also have a PhD in mathematics and spent several years doing research in homotopy theory.
 
 
-[comment]: <> [![SMTilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtilson)](https://github.com/anuraghazra/github-readme-stats)
+[![smtilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtilson&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
