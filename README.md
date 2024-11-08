@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @smtilson.
-- I used to be a mathematician.
-- 👀 I’m interested in web development as well as data science.
-- 🌱 I’m currently learning full stack web development.
+## About Me:
+- I am a Full Stack developer.
+- I have a a Diploma in Full Stack Development from Code Institute where I specialized in Predictive Analytics.
+- I also have a PhD in mathematics and spent several years doing research in homotopy theory.
+
+[![SMTilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtilson)](https://github.com/anuraghazra/github-readme-stats)
